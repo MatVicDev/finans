@@ -9,3 +9,7 @@ section {
 	padding: 60px 0;
 	border: 1px solid #e5e5e5;
 }
+
+#nav-footer li a:hover {
+	text-decoration: underline;
+}
